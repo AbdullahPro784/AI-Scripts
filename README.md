@@ -40,7 +40,7 @@ Here is the scatter plot demonstrating the relationship between daily social med
 
 > 🖼️ **Note:** Replace the image path below with the actual screenshot of your graph.
 
-![Scatter Plot: Social Media Usage vs GPA](path/to/your/Scatter Plot.png)
+![Scatter Plot: Social Media Usage vs GPA](path/to/your/screenshot.png)
 
 ### 🧠 Interpretation of Findings
 - **Negative Correlation:** There is a clear negative correlation between Daily Social Media Hours and GPA. The downward trend indicates that as time spent on social media increases, academic performance tends to decrease.
