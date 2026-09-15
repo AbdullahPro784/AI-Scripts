@@ -38,8 +38,6 @@ This Python-based research project investigates the relationship between the amo
 
 Here is the scatter plot demonstrating the relationship between daily social media hours and GPA:
 
-> 🖼️ **Note:** Replace the image path below with the actual screenshot of your graph.
-
 ![Scatter Plot: Social Media Usage vs GPA](Task1-GPA-Sleep-SocialMedia/screenshot.png)
 
 ### 🧠 Interpretation of Findings
@@ -52,6 +50,3 @@ Here is the scatter plot demonstrating the relationship between daily social med
 * **Pandas & NumPy:** Data creation, manipulation, and statistical calculations.
 * **Matplotlib & Seaborn:** Data visualization and plot styling.
 * **Scikit-learn:** Implementing linear regression for the trendline.
-
----
-*Developed for an Academic Data Analysis Assignment.*
